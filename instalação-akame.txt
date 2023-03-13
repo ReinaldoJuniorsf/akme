@@ -1,0 +1,41 @@
+🇦🇰🇦🇲🇪 🇬🇦 🇰🇮🇱🇱
+🇮🇳🇸🇹🇦🇱🇦🇨🇦🇴
+
+︻╦╤─ ҉ - -
+
+✧════════════•❁❀❁•════════════✧
+
+Abaixo Estão Os Comandos de Instalação do Bot, Siga Os Comandos Com Atenção.
+
+
+[🩸] 1° COMANDO [🩸]
+
+termux-setup-storage
+
+E permite.
+
+[🩸] 2° COMANDO [🩸]
+
+cd /sdcard/akame-bot_ofc5.0
+
+cd /sdcard/Download/akame-bot_ofc5.0
+
+[🩸] 3° COMANDO [🩸]
+
+sh install.sh
+
+Vai precisar digitar y e confirmar toda vez que pedir.
+
+[🩸] 4° COMANDO [🩸]
+
+sh start.sh
+
+[🩸]  NOSSO GRUPO NO WHTS [🩸]
+
+https://chat.whatsapp.com/ChiL2zixgfTAye3NOmOIc3
+
+SE DEU CERTO
+SEGUE NO INSTA BB
+@YURI.ARCEU
+
+✧════════════•❁❀❁•════════════✧
